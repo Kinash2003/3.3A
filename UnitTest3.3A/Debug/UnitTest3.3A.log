@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest3.3A.cpp
+D:\Lab-3\3.3.A\UnitTest3.3A\UnitTest3.3A.cpp(3,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека D:\Lab-3\3.3.A\Debug\UnitTest3.3A.lib и объект D:\Lab-3\3.3.A\Debug\UnitTest3.3A.exp
+  UnitTest3.3A.vcxproj -> D:\Lab-3\3.3.A\Debug\UnitTest3.3A.dll
